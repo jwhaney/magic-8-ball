@@ -1,5 +1,5 @@
 """
-eight ball script: user inputs question and programs responds with an answer
+eight ball script: user inputs question and program responds with an answer
 """
 
 #!/usr/bin/env python
