@@ -1,4 +1,4 @@
-# magic-8-ball (under construction)
-the python equivalent to one of your favorite childhood toys.
+# magic-8-ball
+the python magic eight ball with gui via tkinter - currently under construction
 
 Tkinter gui
